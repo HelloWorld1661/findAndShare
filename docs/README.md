@@ -5,18 +5,18 @@ Find interesting things and share them
 <!-- TOC -->
 
 - [Find And Share](#find-and-share)
-  - [Markdown - VScode Extension - Markdown TOC](#markdown---vscode-extension---markdown-toc)
+  - [VScode Extension - Markdown TOC](#vscode-extension---markdown-toc)
   - [Markdown - docsify](#markdown---docsify)
     - [What it is](#what-it-is)
     - [Features](#features)
 
 <!-- /TOC -->
 
-## Markdown - VScode Extension - Markdown TOC
+## VScode Extension - Markdown TOC
 
 >Generate TOC (table of contents) of headlines from parsed markdown file
 
-![insert-toc](insert-toc.gif)
+![insert-toc](./images/insert-toc.gif)
 
 ## Markdown - docsify
 
