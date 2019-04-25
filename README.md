@@ -2,4 +2,4 @@
 
 ### Click me -> <https://helloworld1661.github.io/findAndShare/>
 
-### 点我 -> <https://helloworld1661.github.io/findAndShare/#/zh-cn/>
+### 中文版点我哟 (´▽｀) -> <https://helloworld1661.github.io/findAndShare/#/zh-cn/>
