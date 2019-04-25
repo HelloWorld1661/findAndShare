@@ -1,8 +1,12 @@
 # Find & Share
 
-Find interesting things and share them
+Find interesting things and share them(´▽｀).
 
 -----------------------------------------------------------------------
+
+## GitHub Repository
+
+<https://github.com/HelloWorld1661/findAndShare>
 
 ## VScode Extension - Markdown TOC
 
