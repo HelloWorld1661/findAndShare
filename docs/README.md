@@ -1,16 +1,8 @@
-# Find And Share
+# Find & Share
 
 Find interesting things and share them
 
-<!-- TOC -->
-
-- [Find And Share](#find-and-share)
-  - [VScode Extension - Markdown TOC](#vscode-extension---markdown-toc)
-  - [Markdown - docsify](#markdown---docsify)
-    - [What it is](#what-it-is)
-    - [Features](#features)
-
-<!-- /TOC -->
+-----------------------------------------------------------------------
 
 ## VScode Extension - Markdown TOC
 
@@ -22,7 +14,7 @@ Find interesting things and share them
 
 >A magical documentation site generator.
 
-[Official website](https://docsify.js.org/#/?id=docsify)
+**docsify :** [Official website](https://docsify.js.org/#/?id=docsify)
 
 ### What it is
 
@@ -38,3 +30,32 @@ docsify generates your documentation website on the fly. Unlike GitBook, it does
 - Compatible with IE11
 - Support SSR ([example](https://github.com/docsifyjs/docsify-ssr-demo))
 - Support embedded files
+
+### Quick start
+
+It is recommended to install docsify-cli globally, which helps initializing and previewing the website locally.
+
+> npm i docsify-cli -g
+
+### Initialize
+
+If you want to write the documentation in the ./docs subdirectory, you can use the init command.
+
+>docsify init ./docs
+
+### Writing content
+
+After the init is complete, you can see the file list in the ./docs subdirectory.
+
+- index.html as the entry file
+- README.md as the home page
+- nojekyll prevents GitHub Pages from ignoring files that begin with an underscore
+
+You can easily update the documentation in ./docs/README.md, of course you can add [more pages](https://docsify.js.org/#/more-pages).
+
+### Preview your site
+
+Run the local server with **docsify serve**. You can preview your site in your browser on **<http://localhost:3000**> .
+
+docsify serve docs
+For more use cases of docsify-cli, head over to the docsify-cli documentation.
