@@ -16,7 +16,7 @@ Find interesting things and share them
 
 >Generate TOC (table of contents) of headlines from parsed markdown file
 
-![insert-toc](./images/insert-toc.gif)
+![insert-toc](images/insert-toc.gif)
 
 ## Markdown - docsify
 
