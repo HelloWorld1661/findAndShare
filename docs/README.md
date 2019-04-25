@@ -2,11 +2,11 @@
 
 Find interesting things and share them(´▽｀).
 
------------------------------------------------------------------------
-
 ## GitHub Repository
 
 <https://github.com/HelloWorld1661/findAndShare>
+
+-----------------------------------------------------------------------
 
 ## VS Code Extension - Markdown TOC
 
