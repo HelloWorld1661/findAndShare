@@ -8,7 +8,7 @@ Find interesting things and share them(´▽｀).
 
 <https://github.com/HelloWorld1661/findAndShare>
 
-## VScode Extension - Markdown TOC
+## VS Code Extension - Markdown TOC
 
 >Generate TOC (table of contents) of headlines from parsed markdown file
 
