@@ -13,7 +13,7 @@ GitHub Repository: <https://github.com/HelloWorld1661/findAndShare>
 ## VS Code Extension - Markdown TOC
 
 >一款VScode的插件，它靠解析的markdown文件来生成标题的目录（TOC）
-![insert-toc](../images/insert-toc.gif)
+![insert-toc](../images/insert-toc.gif ':size=70')
 
 ## Markdown - docsify
 

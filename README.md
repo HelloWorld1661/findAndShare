@@ -14,7 +14,7 @@ GitHub Repository: <https://github.com/HelloWorld1661/findAndShare>
 
 >Generate TOC (table of contents) of headlines from parsed markdown file
 
-![insert-toc](images/insert-toc.gif ':sise')
+![insert-toc](images/insert-toc.gif ':size=70')
 
 ## Markdown - docsify
 
