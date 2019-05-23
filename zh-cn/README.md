@@ -2,9 +2,11 @@
 
 发现并分享生活中各种好玩有趣的东西(´▽｀)。
 
-## GitHub 仓库
+Web page: <https://helloworld1661.github.io/findAndShare/>
 
-<https://github.com/HelloWorld1661/findAndShare>
+中文页面： <https://helloworld1661.github.io/findAndShare/#/zh-cn/>
+
+GitHub Repository: <https://github.com/HelloWorld1661/findAndShare>
 
 -----------------------------------------------------------------------
 
@@ -17,7 +19,7 @@
 
 >一个神奇的文档网站生成工具.
 
-**docsify :** [官方网站](https://docsify.js.org/#/?id=docsify)
+**docsify :** [官方网站](https://docsify.js.org/#/zh-cn/)
 
 ### 是什么
 
