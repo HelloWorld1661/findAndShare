@@ -2,9 +2,11 @@
 
 Find interesting things and share them(´▽｀).
 
-## GitHub Repository
+Web page: <https://helloworld1661.github.io/findAndShare/>
 
-<https://github.com/HelloWorld1661/findAndShare>
+中文页面： <https://helloworld1661.github.io/findAndShare/#/zh-cn/>
+
+GitHub Repository: <https://github.com/HelloWorld1661/findAndShare>
 
 -----------------------------------------------------------------------
 
@@ -12,7 +14,7 @@ Find interesting things and share them(´▽｀).
 
 >Generate TOC (table of contents) of headlines from parsed markdown file
 
-![insert-toc](images/insert-toc.gif)
+![insert-toc](images/insert-toc.gif ':sise')
 
 ## Markdown - docsify
 
